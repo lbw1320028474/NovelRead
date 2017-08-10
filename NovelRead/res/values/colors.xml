@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nomor_readPageTextColor">#333333</color>
+    <color name="nomor_readPageBgColor">#b5b5b5</color>
+    <color name="page_shadow">#80000000</color>
+</resources>
